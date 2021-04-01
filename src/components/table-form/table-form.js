@@ -35,7 +35,7 @@ export default class TableForm extends Component {
     async onSubmit(e){
         e.preventDefault();
 
-        const url = 'https://abtestserv.herokuapp.com/app/insert'
+        const url = 'https://abnodeserver.herokuapp.com/app/insert'
 
 
         const saveTable = this.createTable.filter((index) => {
