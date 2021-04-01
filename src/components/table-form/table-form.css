@@ -1,0 +1,40 @@
+.table-date {
+    width: 100%;
+    text-align: center;
+    border-spacing: 40px 10px;
+}
+
+.table-date th {
+    font-weight: normal;
+    color: #3C5AA8;
+    opacity: 0.4;
+    padding: 10px 15px;
+}
+
+.table-date td {
+    color: #5D6D97;
+    border-radius: 50px 50px;
+    background-color: #fff;
+    padding-right: 7px;
+}
+
+.table-date input {
+    border-radius: 50% 50%;
+    border: none;
+    outline: none;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.btn {
+    background-color: #4A9DFF;
+    color: #fff;
+    padding: 7px 18px;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    margin-left: 40px;
+    border-radius: 7px;
+    border: none;
+  }
